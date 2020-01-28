@@ -1,6 +1,6 @@
 # Stub for the *term2web* *Python* library.
 
-[![Run on Repl.it](https://repl.it/badge/github/epeios-q37/tortoise-python)](https://q37.info/s/7jqrdgnx) [![license: MIT](https://img.shields.io/github/license/epeios-q37/term2web-python-stub)](https://github.com/epeios-q37/term2web-python/blob/master/LICENSE)
+[![Run on Repl.it](https://repl.it/badge/github/epeios-q37/term2web-python-stub)](https://q37.info/s/7jqrdgnx) [![license: MIT](https://img.shields.io/github/license/epeios-q37/term2web-python-stub)](https://github.com/epeios-q37/term2web-python-stub/blob/master/LICENSE)
 
 The *term2web* library redirects `print(…)` and `input(…)` to a web page, and so allows to use CSS to format the displayed text. See https://q37.info/s/dh9gpjft for details.
 
