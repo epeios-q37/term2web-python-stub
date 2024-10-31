@@ -21,5 +21,6 @@ set_properties({
     "outline-color": "blue"
 })
 
-print(" " + name+ " ")
+
+print(" " + name + " ")
 
